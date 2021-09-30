@@ -12,5 +12,7 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible JRcode Team
+* Incluye ejemplos en Windows, Linux y Mac
+
 
 asdasdasdasd
