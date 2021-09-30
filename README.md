@@ -13,6 +13,7 @@ En este curso vemos de todo:
 * Las personalidades múltiples de Freddy
 * Creado por el increible JRcode Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 
 asdasdasdasd
